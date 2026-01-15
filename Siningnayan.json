@@ -10,73 +10,25 @@
     "adaptGameResolutionAtRuntime": true,
     "antialiasingMode": "MSAA",
     "antialisingEnabledOnMobile": false,
-<<<<<<< HEAD
-    "folderProject": true,
-    "orientation": "default",
-    "packageName": "com.example.gamename",
-    "pixelsRounding": false,
-    "projectUuid": "e7389069-17d0-4c00-92a5-8ae0ae4ee01b",
-=======
     "folderProject": false,
     "orientation": "landscape",
     "packageName": "com.example.gamename",
     "pixelsRounding": true,
     "projectUuid": "2dcbc389-086d-4450-9c31-e818d5d70de8",
->>>>>>> oldrepo/main
     "scaleMode": "nearest",
     "sizeOnStartupMode": "adaptWidth",
     "templateSlug": "",
     "version": "1.0.0",
-<<<<<<< HEAD
-    "name": "Siningnayan - Copy",
-    "description": "",
-    "author": "",
-    "windowWidth": 1920,
-    "windowHeight": 1080,
-=======
     "name": "Siningnayan ",
     "description": "",
     "author": "",
     "windowWidth": 1280,
     "windowHeight": 720,
->>>>>>> oldrepo/main
     "latestCompilationDirectory": "",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
-<<<<<<< HEAD
-    "platformSpecificAssets": {
-      "android-icon-144": "",
-      "android-icon-192": "",
-      "android-icon-36": "",
-      "android-icon-48": "",
-      "android-icon-72": "",
-      "android-icon-96": "",
-      "android-windowSplashScreenAnimatedIcon": "",
-      "desktop-icon-512": "",
-      "ios-icon-100": "",
-      "ios-icon-1024": "",
-      "ios-icon-114": "",
-      "ios-icon-120": "",
-      "ios-icon-144": "",
-      "ios-icon-152": "",
-      "ios-icon-167": "",
-      "ios-icon-180": "",
-      "ios-icon-20": "",
-      "ios-icon-29": "",
-      "ios-icon-40": "",
-      "ios-icon-50": "",
-      "ios-icon-57": "",
-      "ios-icon-58": "",
-      "ios-icon-60": "",
-      "ios-icon-72": "",
-      "ios-icon-76": "",
-      "ios-icon-80": "",
-      "ios-icon-87": ""
-    },
-=======
     "platformSpecificAssets": {},
->>>>>>> oldrepo/main
     "loadingScreen": {
       "backgroundColor": 0,
       "backgroundFadeInDuration": 0.2,
@@ -115,622 +67,14 @@
   "resources": {
     "resources": [
       {
-<<<<<<< HEAD
-        "file": "assets/NewSprite2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "1.png",
-=======
         "file": "SININGNAYAN.png",
         "kind": "image",
         "metadata": "",
         "name": "SININGNAYAN.png",
->>>>>>> oldrepo/main
         "smoothed": false,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
-        "file": "2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "7.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "8.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "floor sprite.JPG",
-        "kind": "image",
-        "metadata": "",
-        "name": "floor sprite.JPG",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "9.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "10.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "10.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "11.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "11.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "12.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "12.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "13.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "13.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "14.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "14.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "15.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "15.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "16.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "16.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "17.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "17.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "18.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "18.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "19.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "19.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "20.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "20.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "21.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "21.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Untitled design.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Untitled design.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Gameplay BG.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Gameplay BG.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Gameplay BG2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Gameplay BG2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "asdsa.JPG",
-        "kind": "image",
-        "metadata": "",
-        "name": "asdsa.JPG",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/tiled_Damaged wall.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tiled_Damaged wall.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Pack (190 assets)/PNG/Retina/Tiles/af8cf182db571426d642945d406cfbf1b14fe1486501b8b09c851ce1006b67dd_tiled_Damaged wall.png",
-          "name": "tiled_Damaged wall.png"
-        }
-      },
-      {
-        "file": "assets/tiled_industrial platform center.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tiled_industrial platform center.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Industrial Platformer Pack (110 assets)/PNG/Retina/ca47e97bdd8bab0411d72164191dd8406065208ed50ade5597e76964abdeb101_tiled_industrial platform center.png",
-          "name": "tiled_industrial platform center.png"
-        }
-      },
-      {
-        "file": "assets/tiled_Alternative castle wall.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tiled_Alternative castle wall.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Building/ef065b13da87bf525842e82bb5fc013fa296384b8a4d768e1e0423b7bdf780f6_tiled_Alternative castle wall.png",
-          "name": "tiled_Alternative castle wall.png"
-        }
-      },
-      {
-        "file": "assets/tiled_Brick3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tiled_Brick3.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Tileable Ground Textures/821a1cde78a58eae605bc09ebb4b3d91b1d1bda569cea742ff74470a0068dc2e_tiled_Brick3.png",
-          "name": "tiled_Brick3.png"
-        }
-      },
-      {
-        "file": "assets/tiled_Tileset Piece 12.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tiled_Tileset Piece 12.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Tileset/4ce9f1062333db885fa4e5d0c20c5bccbca489f706fcc5e38c8a96d8c1f205c0_tiled_Tileset Piece 12.png",
-          "name": "tiled_Tileset Piece 12.png"
-        }
-      },
-      {
-        "file": "assets/tiled_Yellow Background.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tiled_Yellow Background.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Background/ce88574dd505d38616653e11635bd31d1c9b35296a2aac8e8225ae88bfe47c41_tiled_Yellow Background.png",
-          "name": "tiled_Yellow Background.png"
-        }
-      },
-      {
-        "file": "assets/tiled_Gray Background.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tiled_Gray Background.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Background/e4143984855b3f2809a2a27ebfdf1ba854f1bf5248b74cc117ed4002cbe0e5d9_tiled_Gray Background.png",
-          "name": "tiled_Gray Background.png"
-        }
-      },
-      {
-        "file": "Untitled design (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Untitled design (1).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Untitled design (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Untitled design (2).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "flooorr.JPG",
-        "kind": "image",
-        "metadata": "",
-        "name": "flooorr.JPG",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Walk/1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Walk\\1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Walk/2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Walk\\2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Walk/3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Walk\\3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Walk/4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Walk\\4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Walk/5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Walk\\5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Walk/6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Walk\\6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Walk/7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Walk\\7.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Walk/8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Walk\\8.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "IDLE2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "IDLE2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Crouch.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Crouch.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Explosion3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Explosion3.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/PixiJS/c693a024a868728da3e9e91c9d23513306582bda6ba10191afc24d6c5667dd5e_Explosion3.png",
-          "name": "Explosion3.png"
-        }
-      },
-      {
-        "file": "assets/tiled_Tiled Left Wall.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tiled_Tiled Left Wall.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/e63a3e5a5b481e0f20350ec05891f05c4ef574f916f80adb29e34e4699eb5454_tiled_Tiled Left Wall.png",
-          "name": "tiled_Tiled Left Wall.png"
-        }
-      },
-      {
-        "file": "archh.JPG",
-        "kind": "image",
-        "metadata": "",
-        "name": "archh.JPG",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Untitled design (3).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Untitled design (3).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/tiled_Tiled Full Wall.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tiled_Tiled Full Wall.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/9ee2b85299efca63aa050e8aa6ab9c71cb87e8d869adb449a3ba5165cc0b0bb7_tiled_Tiled Full Wall.png",
-          "name": "tiled_Tiled Full Wall.png"
-        }
-      },
-      {
-        "file": "assets/tiled_Tiled Flooring.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tiled_Tiled Flooring.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Floor/fdbaad501362790bd57187ff43d62c521f0a58b98697dcb2d058ed359b1dffa8_tiled_Tiled Flooring.png",
-          "name": "tiled_Tiled Flooring.png"
-        }
-      },
-      {
-        "file": "assets/tiled_Brown background.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tiled_Brown background.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Backgrounds/4301a40f507e51d964f68121478aa525ca2acf8a65fb135fd9efa0dbacf96cf9_tiled_Brown background.png",
-          "name": "tiled_Brown background.png"
-        }
-      },
-      {
-        "file": "assets/tiled_black space.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tiled_black space.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/Backgrounds/82e24c48618660952ceb6cede5c9917ceeb4371c9e971f4a49fb43689d045d89_tiled_black space.png",
-          "name": "tiled_black space.png"
-        }
-      },
-      {
-        "file": "mayon volcano painting.JPG",
-        "kind": "image",
-        "metadata": "",
-        "name": "mayon volcano painting.JPG",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Red BG.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Red BG.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Untitled design (1)2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Untitled design (1)2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Untitled design (1)3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Untitled design (1)3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Pixelated Paintings/5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Pixelated Paintings/6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Pixelated Paintings/7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\7.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Pixelated Paintings/8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\8.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Pixelated Paintings/9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\9.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Pixelated Paintings/10.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\10.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Pixelated Paintings/11.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\11.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/tiled_Tile 3 tiled sprite.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tiled_Tile 3 tiled sprite.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Tiles/139f3b36f1420a4639943066a9d8d6a0229d18b0f29c00368da47d61c9b7993b_tiled_Tile 3 tiled sprite.png",
-          "name": "tiled_Tile 3 tiled sprite.png"
-        }
-      },
-      {
-        "file": "GLOW.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "GLOW.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Kenney Mini Square.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini Square.ttf",
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini Square.ttf",
-=======
         "file": "assets/Black Decorated Button_Hovered.png",
         "kind": "image",
         "metadata": "",
@@ -893,20 +237,10 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/Japanese/561d75b195f4dfcbdf0c38511984c83680574032d6b8c3c6a436a4fd32094320_DotGothic16-Regular.ttf",
->>>>>>> oldrepo/main
           "name": "gdevelop-asset-store"
         }
       },
       {
-<<<<<<< HEAD
-        "file": "assets/Silkscreen-Regular.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "758a5ad5d3131fef02a270e9ab7ab030db457b06730add8a0b31581a76b93470_Silkscreen-Regular.ttf",
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/758a5ad5d3131fef02a270e9ab7ab030db457b06730add8a0b31581a76b93470_Silkscreen-Regular.ttf",
-=======
         "file": "assets/Kenney Pixel.ttf",
         "kind": "font",
         "metadata": "",
@@ -914,721 +248,211 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
->>>>>>> oldrepo/main
           "name": "gdevelop-asset-store"
         }
       },
       {
-<<<<<<< HEAD
-        "file": "BG 1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "BG 1.png",
-=======
         "file": "Fundo laranja _ Foto Grátis7.png",
         "kind": "image",
         "metadata": "",
         "name": "Fundo laranja _ Foto Grátis7.png",
->>>>>>> oldrepo/main
         "smoothed": false,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
-        "file": "BG2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "BG2.png",
-=======
         "file": "Fundo laranja _ Foto Grátis8.png",
         "kind": "image",
         "metadata": "",
         "name": "Fundo laranja _ Foto Grátis8.png",
->>>>>>> oldrepo/main
         "smoothed": false,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
-        "file": "assets/tiled_Green substance floor.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "tiled_Green substance floor.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Industrial Platformer Pack (110 assets)/PNG/Retina/56661294f4b698b56db19d2fc43565f275c1f66f6d350fe873a1b33f6f98838b_tiled_Green substance floor.png",
-          "name": "tiled_Green substance floor.png"
-        }
-      },
-      {
-        "file": "Pixelated Paintings/12.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\12.png",
-=======
         "file": "Elias3.png",
         "kind": "image",
         "metadata": "",
         "name": "Elias3.png",
->>>>>>> oldrepo/main
         "smoothed": false,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
-        "file": "Pixelated Paintings/13.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\13.png",
-=======
         "file": "Elias4.png",
         "kind": "image",
         "metadata": "",
         "name": "Elias4.png",
->>>>>>> oldrepo/main
         "smoothed": false,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
-        "file": "Pixelated Paintings/14.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\14.png",
-=======
         "file": "Elias5.png",
         "kind": "image",
         "metadata": "",
         "name": "Elias5.png",
->>>>>>> oldrepo/main
         "smoothed": false,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
-        "file": "Pixelated Paintings/16.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\16.png",
-=======
         "file": "Elias6.png",
         "kind": "image",
         "metadata": "",
         "name": "Elias6.png",
->>>>>>> oldrepo/main
         "smoothed": false,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
-        "file": "assets/PixelTrail.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "PixelTrail.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/PixiJS/ef6aa63d5cdf5ce14f88668e4d55a67a0051bc54e48e592fd3abbfed7e104b79_PixelTrail.png",
-          "name": "PixelTrail.png"
-        }
-      },
-      {
-        "file": "Pixelated Paintings/17.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\17.png",
-=======
         "file": "NANAY 1 PUTANGINA3.png",
         "kind": "image",
         "metadata": "",
         "name": "NANAY 1 PUTANGINA3.png",
->>>>>>> oldrepo/main
         "smoothed": false,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
-        "file": "Pixelated Paintings/1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\1.png",
-=======
         "file": "Elias7.png",
         "kind": "image",
         "metadata": "",
         "name": "Elias7.png",
->>>>>>> oldrepo/main
         "smoothed": false,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
-        "file": "Pixelated Paintings/18.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\18.png",
-=======
         "file": "NANAY 1 PUTANGINA4.png",
         "kind": "image",
         "metadata": "",
         "name": "NANAY 1 PUTANGINA4.png",
->>>>>>> oldrepo/main
         "smoothed": false,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
-        "file": "Pixelated Paintings/2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\2.png",
-=======
         "file": "NANAY 2 (1)3.png",
         "kind": "image",
         "metadata": "",
         "name": "NANAY 2 (1)3.png",
->>>>>>> oldrepo/main
         "smoothed": false,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
-        "file": "Pixelated Paintings/3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\3.png",
-=======
         "file": "NANAY 3 (1)3.png",
         "kind": "image",
         "metadata": "",
         "name": "NANAY 3 (1)3.png",
->>>>>>> oldrepo/main
         "smoothed": false,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
-        "file": "Pixelated Paintings/4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\4.png",
-=======
         "file": "TATAY 1 (1)3.png",
         "kind": "image",
         "metadata": "",
         "name": "TATAY 1 (1)3.png",
->>>>>>> oldrepo/main
         "smoothed": false,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
-        "file": "Pixelated Paintings/19.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\19.png",
-=======
         "file": "TATAY 2 (1)3.png",
         "kind": "image",
         "metadata": "",
         "name": "TATAY 2 (1)3.png",
->>>>>>> oldrepo/main
         "smoothed": false,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
-        "file": "Pixelated Paintings/20.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\20.png",
-        "smoothed": false,
-=======
         "disablePreload": false,
         "file": "assets/DialogueData2.json",
         "kind": "json",
         "metadata": "{\"extension\":\".json\",\"localFilePath\":\"assets/DialogueData2.json\"}",
         "name": "DialogueData",
->>>>>>> oldrepo/main
+        "userAdded": false
+      },
+      {
+        "file": "Nanay8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Nanay8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Nanay9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Nanay9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Nanay10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Nanay10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Tatay6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tatay6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../../../../Downloads/TATAY 2 (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\..\\Downloads\\TATAY 2 (1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Tatay7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tatay7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Nanay11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Nanay11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Nanay12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Nanay12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Nanay13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Nanay13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Tatay8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tatay8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Tatay9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tatay9.png",
+        "smoothed": false,
         "userAdded": false
       }
     ]
   },
-<<<<<<< HEAD
-  "objects": [
-    {
-      "adaptCollisionMaskAutomatically": false,
-      "assetStoreId": "",
-      "name": "Elias",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "isFolded": true,
-          "name": "PlatformerObject",
-          "type": "PlatformBehavior::PlatformerObjectBehavior",
-          "acceleration": 1500,
-          "canGoDownFromJumpthru": true,
-          "canGrabPlatforms": true,
-          "canGrabWithoutMoving": true,
-          "deceleration": 1500,
-          "gravity": 1000,
-          "ignoreDefaultControls": false,
-          "jumpSpeed": 600,
-          "jumpSustainTime": 0.2,
-          "ladderClimbingSpeed": 150,
-          "maxFallingSpeed": 700,
-          "maxSpeed": 250,
-          "slopeMaxAngle": 60,
-          "useLegacyTrajectory": false,
-          "useRepeatedJump": false,
-          "xGrabTolerance": 10,
-          "yGrabOffset": 0
-        }
-      ],
-      "animations": [
-        {
-          "name": "Walk (Right)",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "timeBetweenFrames": 0.2,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Walk\\1.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 589.5,
-                        "y": 277.5
-                      },
-                      {
-                        "x": 1014,
-                        "y": 268.5
-                      },
-                      {
-                        "x": 946.5,
-                        "y": 1157.5
-                      },
-                      {
-                        "x": 552.5,
-                        "y": 1111.5
-                      }
-                    ],
-                    [
-                      {
-                        "x": 663.5,
-                        "y": 303.5
-                      },
-                      {
-                        "x": 994.5,
-                        "y": 288.5
-                      },
-                      {
-                        "x": 927,
-                        "y": 1142
-                      },
-                      {
-                        "x": 569.5,
-                        "y": 1133.5
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Walk\\2.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 589.5,
-                        "y": 277.5
-                      },
-                      {
-                        "x": 1014,
-                        "y": 268.5
-                      },
-                      {
-                        "x": 946.5,
-                        "y": 1157.5
-                      },
-                      {
-                        "x": 552.5,
-                        "y": 1111.5
-                      }
-                    ],
-                    [
-                      {
-                        "x": 663.5,
-                        "y": 303.5
-                      },
-                      {
-                        "x": 994.5,
-                        "y": 288.5
-                      },
-                      {
-                        "x": 927,
-                        "y": 1142
-                      },
-                      {
-                        "x": 569.5,
-                        "y": 1133.5
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Walk\\3.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 589.5,
-                        "y": 277.5
-                      },
-                      {
-                        "x": 1014,
-                        "y": 268.5
-                      },
-                      {
-                        "x": 946.5,
-                        "y": 1157.5
-                      },
-                      {
-                        "x": 552.5,
-                        "y": 1111.5
-                      }
-                    ],
-                    [
-                      {
-                        "x": 663.5,
-                        "y": 303.5
-                      },
-                      {
-                        "x": 994.5,
-                        "y": 288.5
-                      },
-                      {
-                        "x": 927,
-                        "y": 1142
-                      },
-                      {
-                        "x": 569.5,
-                        "y": 1133.5
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Walk\\4.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 589.5,
-                        "y": 277.5
-                      },
-                      {
-                        "x": 1014,
-                        "y": 268.5
-                      },
-                      {
-                        "x": 946.5,
-                        "y": 1157.5
-                      },
-                      {
-                        "x": 552.5,
-                        "y": 1111.5
-                      }
-                    ],
-                    [
-                      {
-                        "x": 663.5,
-                        "y": 303.5
-                      },
-                      {
-                        "x": 994.5,
-                        "y": 288.5
-                      },
-                      {
-                        "x": 927,
-                        "y": 1142
-                      },
-                      {
-                        "x": 569.5,
-                        "y": 1133.5
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Walk\\5.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 589.5,
-                        "y": 277.5
-                      },
-                      {
-                        "x": 1014,
-                        "y": 268.5
-                      },
-                      {
-                        "x": 946.5,
-                        "y": 1157.5
-                      },
-                      {
-                        "x": 552.5,
-                        "y": 1111.5
-                      }
-                    ],
-                    [
-                      {
-                        "x": 663.5,
-                        "y": 303.5
-                      },
-                      {
-                        "x": 994.5,
-                        "y": 288.5
-                      },
-                      {
-                        "x": 927,
-                        "y": 1142
-                      },
-                      {
-                        "x": 569.5,
-                        "y": 1133.5
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Walk\\6.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 589.5,
-                        "y": 277.5
-                      },
-                      {
-                        "x": 1014,
-                        "y": 268.5
-                      },
-                      {
-                        "x": 946.5,
-                        "y": 1157.5
-                      },
-                      {
-                        "x": 552.5,
-                        "y": 1111.5
-                      }
-                    ],
-                    [
-                      {
-                        "x": 663.5,
-                        "y": 303.5
-                      },
-                      {
-                        "x": 994.5,
-                        "y": 288.5
-                      },
-                      {
-                        "x": 927,
-                        "y": 1142
-                      },
-                      {
-                        "x": 569.5,
-                        "y": 1133.5
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Walk\\7.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 589.5,
-                        "y": 277.5
-                      },
-                      {
-                        "x": 1014,
-                        "y": 268.5
-                      },
-                      {
-                        "x": 946.5,
-                        "y": 1157.5
-                      },
-                      {
-                        "x": 552.5,
-                        "y": 1111.5
-                      }
-                    ],
-                    [
-                      {
-                        "x": 663.5,
-                        "y": 303.5
-                      },
-                      {
-                        "x": 994.5,
-                        "y": 288.5
-                      },
-                      {
-                        "x": 927,
-                        "y": 1142
-                      },
-                      {
-                        "x": 569.5,
-                        "y": 1133.5
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Walk\\8.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 589.5,
-                        "y": 277.5
-                      },
-                      {
-                        "x": 1014,
-                        "y": 268.5
-                      },
-                      {
-                        "x": 946.5,
-                        "y": 1157.5
-                      },
-                      {
-                        "x": 552.5,
-                        "y": 1111.5
-                      }
-                    ],
-                    [
-                      {
-                        "x": 663.5,
-                        "y": 303.5
-                      },
-                      {
-                        "x": 994.5,
-                        "y": 288.5
-                      },
-                      {
-                        "x": 927,
-                        "y": 1142
-                      },
-                      {
-                        "x": 569.5,
-                        "y": 1133.5
-                      }
-                    ]
-=======
   "objects": [],
   "objectsFolderStructure": {
     "folderName": "__ROOT"
@@ -1928,7 +752,6 @@
                         ]
                       ]
                     }
->>>>>>> oldrepo/main
                   ]
                 }
               ]
@@ -1936,67 +759,6 @@
           ]
         },
         {
-<<<<<<< HEAD
-          "name": "Idle",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "IDLE2.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 589.5,
-                        "y": 277.5
-                      },
-                      {
-                        "x": 1014,
-                        "y": 268.5
-                      },
-                      {
-                        "x": 946.5,
-                        "y": 1157.5
-                      },
-                      {
-                        "x": 552.5,
-                        "y": 1111.5
-                      }
-                    ],
-                    [
-                      {
-                        "x": 663.5,
-                        "y": 303.5
-                      },
-                      {
-                        "x": 994.5,
-                        "y": 288.5
-                      },
-                      {
-                        "x": 927,
-                        "y": 1142
-                      },
-                      {
-                        "x": 569.5,
-                        "y": 1133.5
-                      }
-                    ]
-=======
           "assetStoreId": "",
           "name": "settings",
           "type": "BitmapText::BitmapTextObject",
@@ -2110,7 +872,6 @@
                         ]
                       ]
                     }
->>>>>>> oldrepo/main
                   ]
                 }
               ]
@@ -2118,67 +879,6 @@
           ]
         },
         {
-<<<<<<< HEAD
-          "name": "Crouch",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Crouch.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 589.5,
-                        "y": 277.5
-                      },
-                      {
-                        "x": 1014,
-                        "y": 268.5
-                      },
-                      {
-                        "x": 946.5,
-                        "y": 1157.5
-                      },
-                      {
-                        "x": 552.5,
-                        "y": 1111.5
-                      }
-                    ],
-                    [
-                      {
-                        "x": 663.5,
-                        "y": 303.5
-                      },
-                      {
-                        "x": 994.5,
-                        "y": 288.5
-                      },
-                      {
-                        "x": 927,
-                        "y": 1142
-                      },
-                      {
-                        "x": 569.5,
-                        "y": 1133.5
-                      }
-                    ]
-=======
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "SettingsMarker",
@@ -2232,14 +932,11 @@
                         ]
                       ]
                     }
->>>>>>> oldrepo/main
                   ]
                 }
               ]
             }
           ]
-<<<<<<< HEAD
-=======
         },
         {
           "assetStoreId": "bfeeb465a4a164b560a2215e3ff9e78e66123af43cbf7ef1f22d56fca4271c80",
@@ -2821,7 +1518,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4950840073748899,
+        "zoomFactor": 0.46331118245139874,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -2910,7 +1607,12 @@
           "x": 15,
           "y": 422,
           "zOrder": 5,
-          "numberProperties": [],
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
           "stringProperties": [],
           "initialVariables": []
         }
@@ -3131,7 +1833,7 @@
               ]
             },
             {
-              "name": "",
+              "name": "1",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -3179,7 +1881,7 @@
               ]
             },
             {
-              "name": "",
+              "name": "2",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -3188,7 +1890,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NANAY 1 PUTANGINA4.png",
+                      "image": "Nanay11.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3227,7 +1929,7 @@
               ]
             },
             {
-              "name": "",
+              "name": "3",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -3236,7 +1938,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NANAY 2 (1)3.png",
+                      "image": "Nanay12.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3275,7 +1977,7 @@
               ]
             },
             {
-              "name": "",
+              "name": "4",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -3284,7 +1986,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NANAY 3 (1)3.png",
+                      "image": "Nanay13.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3323,7 +2025,7 @@
               ]
             },
             {
-              "name": "",
+              "name": "5",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -3332,7 +2034,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "TATAY 1 (1)3.png",
+                      "image": "Tatay8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3371,7 +2073,7 @@
               ]
             },
             {
-              "name": "",
+              "name": "6",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -3380,7 +2082,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "TATAY 2 (1)3.png",
+                      "image": "Tatay9.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3483,13 +2185,266 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite",
+          "name": "Nanay",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "animations": []
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Nanay8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 100,
+                            "y": 219
+                          },
+                          {
+                            "x": 2460,
+                            "y": 219
+                          },
+                          {
+                            "x": 2460,
+                            "y": 2560
+                          },
+                          {
+                            "x": 100,
+                            "y": 2560
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Nanay9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 100,
+                            "y": 219
+                          },
+                          {
+                            "x": 2460,
+                            "y": 219
+                          },
+                          {
+                            "x": 2460,
+                            "y": 2560
+                          },
+                          {
+                            "x": 100,
+                            "y": 2560
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Nanay10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 100,
+                            "y": 219
+                          },
+                          {
+                            "x": 2460,
+                            "y": 219
+                          },
+                          {
+                            "x": 2460,
+                            "y": 2560
+                          },
+                          {
+                            "x": 100,
+                            "y": 2560
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Tatay",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tatay6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 220
+                          },
+                          {
+                            "x": 2540,
+                            "y": 220
+                          },
+                          {
+                            "x": 2540,
+                            "y": 2560
+                          },
+                          {
+                            "x": 20,
+                            "y": 2560
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tatay7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 220
+                          },
+                          {
+                            "x": 2540,
+                            "y": 220
+                          },
+                          {
+                            "x": 2540,
+                            "y": 2560
+                          },
+                          {
+                            "x": 20,
+                            "y": 2560
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -3511,10 +2466,13 @@
             "objectName": "Avatars"
           },
           {
-            "objectName": "Elias"
+            "objectName": "Nanay"
           },
           {
-            "objectName": "NewSprite"
+            "objectName": "Tatay"
+          },
+          {
+            "objectName": "Elias"
           }
         ]
       },
@@ -3721,6 +2679,17 @@
                     "=",
                     "\"Elias\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "Avatars",
+                    "Animation",
+                    "=",
+                    "1"
+                  ]
                 }
               ]
             },
@@ -3746,6 +2715,17 @@
                     "=",
                     "\"Nanay\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "Avatars",
+                    "Animation",
+                    "=",
+                    "2"
+                  ]
                 }
               ]
             },
@@ -3770,6 +2750,159 @@
                     "NameTxT",
                     "=",
                     "\"Tatay\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "Avatars",
+                    "Animation",
+                    "=",
+                    "5"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Changing avatars "
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DialogueTree::IsCommandCalled"
+                  },
+                  "parameters": [
+                    "\"Nanay2\"\n"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "Avatars",
+                    "Animation",
+                    "=",
+                    "2"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DialogueTree::IsCommandCalled"
+                  },
+                  "parameters": [
+                    "\"Nanay3\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "Avatars",
+                    "Animation",
+                    "=",
+                    "3"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DialogueTree::IsCommandCalled"
+                  },
+                  "parameters": [
+                    "\"Nanay4\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "Avatars",
+                    "Animation",
+                    "=",
+                    "4"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DialogueTree::IsCommandCalled"
+                  },
+                  "parameters": [
+                    "\"Tatay5\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "Avatars",
+                    "Animation",
+                    "=",
+                    "5"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DialogueTree::IsCommandCalled"
+                  },
+                  "parameters": [
+                    "\"Tatay6\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "Avatars",
+                    "Animation",
+                    "=",
+                    "6"
                   ]
                 }
               ]
@@ -4169,6 +3302,109 @@
           "type": "TextContainerCapability::TextContainerBehavior"
         }
       ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "MUSEUM_58_32Manunggul_32Jar",
+      "name": "MUSEUM: Manunggul Jar",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false,
+        "selectedLayer": ""
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT"
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": []
     }
   ],
   "externalEvents": [],
@@ -7203,87 +6439,10 @@
               "editionSettings": {}
             }
           ]
->>>>>>> oldrepo/main
         }
       ]
     },
     {
-<<<<<<< HEAD
-      "assetStoreId": "",
-      "bottomMargin": 0,
-      "height": 32,
-      "leftMargin": 0,
-      "name": "Painting_Glow",
-      "rightMargin": 0,
-      "texture": "GLOW.png",
-      "tiled": false,
-      "topMargin": 0,
-      "type": "PanelSpriteObject::PanelSprite",
-      "width": 32,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    },
-    {
-      "assetStoreId": "2d701679df0e067e63e657f3a7de8b0c076c1c0db19e7c6070c186b28a611df2",
-      "height": 256,
-      "name": "Edge_Trigger",
-      "texture": "tiled_black space.png",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 256,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    }
-  ],
-  "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "Elias"
-      },
-      {
-        "objectName": "Painting_Glow"
-      },
-      {
-        "objectName": "Edge_Trigger"
-      }
-    ]
-  },
-  "objectsGroups": [],
-  "variables": [],
-  "layouts": [
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/prologue-sample-scene"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/prekolonyal-walk-through"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/kolonyal-walk-through"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/modern-walk-through"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/mt-mayon"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/ending-sample-scene"
-    }
-  ],
-  "externalEvents": [],
-  "eventsFunctionsExtensions": [
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/eventsFunctionsExtensions/drawpathfinding"
-=======
       "author": "",
       "category": "Input",
       "extensionNamespace": "",
@@ -25330,7 +24489,6 @@
           ]
         }
       ]
->>>>>>> oldrepo/main
     }
   ],
   "externalLayouts": []
