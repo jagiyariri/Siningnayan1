@@ -851,6 +851,97 @@
         "name": "Pixelated Paintings\\20.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "SININGNAYAN dinner 2.0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SININGNAYAN dinner 2.0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Fundo laranja _ Foto Grátis7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fundo laranja _ Foto Grátis7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Fundo laranja _ Foto Grátis8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fundo laranja _ Foto Grátis8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Elias7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Elias7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Nanay11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Nanay11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Nanay12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Nanay12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Nanay13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Nanay13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Tatay8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tatay8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Tatay9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tatay9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/DialogueData.json",
+        "kind": "json",
+        "metadata": "{\"extension\":\".json\"}",
+        "name": "DialogueData",
+        "userAdded": false
+      },
+      {
+        "file": "assets/Kenney Mini.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini.ttf",
+          "name": "gdevelop-asset-store"
+        }
       }
     ]
   },
@@ -1534,6 +1625,14 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/ending-sample-scene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/untitled-scene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/prologue-dinner-scene"
     }
   ],
   "externalEvents": [],
