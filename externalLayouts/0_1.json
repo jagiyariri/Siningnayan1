@@ -1,0 +1,21 @@
+{
+  "associatedLayout": "MANUNGGUL JAR",
+  "name": "0_1",
+  "instances": [],
+  "editionSettings": {
+    "grid": true,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridDepth": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridOffsetZ": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": true,
+    "zoomFactor": 1.285621123678241,
+    "windowMask": false,
+    "selectedLayer": ""
+  }
+}
