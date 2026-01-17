@@ -327,7 +327,20 @@
           "name": "CorrectionY"
         }
       ],
-      "sharedPropertyDescriptors": []
+      "propertiesFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "propertyName": "LoopIndex"
+          },
+          {
+            "propertyName": "CorrectionX"
+          },
+          {
+            "propertyName": "CorrectionY"
+          }
+        ]
+      }
     }
   ],
   "eventsBasedObjects": []

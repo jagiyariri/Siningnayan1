@@ -20,7 +20,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.2302350640340434,
+    "zoomFactor": 0.31268270738202925,
     "windowMask": false,
     "selectedLayer": ""
   },
@@ -31,14 +31,14 @@
       "angle": 355,
       "customSize": true,
       "depth": 1,
-      "height": 121,
+      "height": 112,
       "keepRatio": true,
       "layer": "",
       "name": "player",
       "persistentUuid": "6d7c4b94-e410-446c-b541-7f149c67ec8e",
-      "width": 200,
-      "x": -27,
-      "y": 959,
+      "width": 185,
+      "x": -59,
+      "y": 968,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -150,14 +150,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 608,
+      "height": 736,
       "keepRatio": true,
       "layer": "",
       "name": "afterlife_bg",
       "persistentUuid": "4151b515-e1bc-4c95-8e22-c15f8fef6ece",
-      "width": 3242,
-      "x": -586,
-      "y": 544,
+      "width": 3488,
+      "x": -96,
+      "y": 512,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -193,6 +193,159 @@
       "x": 2304,
       "y": 1056,
       "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 96,
+      "keepRatio": true,
+      "layer": "",
+      "name": "floor2",
+      "persistentUuid": "3b7662ba-3ab0-4738-a38b-03d47b44a04a",
+      "width": 384,
+      "x": -384,
+      "y": 1056,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 96,
+      "keepRatio": true,
+      "layer": "",
+      "name": "floor2",
+      "persistentUuid": "9afb259b-0d5e-46da-816e-098a2a58ce3d",
+      "width": 384,
+      "x": 2688,
+      "y": 1056,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 96,
+      "keepRatio": true,
+      "layer": "",
+      "name": "floor2",
+      "persistentUuid": "2a408b4a-375f-4e93-a743-c5df3d0df0ea",
+      "width": 384,
+      "x": 3072,
+      "y": 1056,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 416,
+      "keepRatio": true,
+      "layer": "",
+      "name": "orbs",
+      "persistentUuid": "e4477fcd-a029-47cd-b452-e7918bc15712",
+      "width": 362,
+      "x": 406,
+      "y": 672,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 416,
+      "keepRatio": true,
+      "layer": "",
+      "name": "orbs",
+      "persistentUuid": "b2f10193-96bf-4b15-af0c-01c9de814a80",
+      "width": 362,
+      "x": 1056,
+      "y": 672,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 416,
+      "keepRatio": true,
+      "layer": "",
+      "name": "orbs",
+      "persistentUuid": "edb68ee0-6c1c-4ae4-9ed6-aa9a813c8160",
+      "width": 362,
+      "x": 1696,
+      "y": 672,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 70,
+      "keepRatio": true,
+      "layer": "",
+      "name": "bato",
+      "persistentUuid": "b8260040-faa5-438e-97b5-0da4bba987b2",
+      "width": 85,
+      "x": 811,
+      "y": 992,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 64,
+      "keepRatio": true,
+      "layer": "",
+      "name": "bato2",
+      "persistentUuid": "3c0da012-3533-47ef-8d33-ad0bef20504d",
+      "width": 96,
+      "x": 1440,
+      "y": 1003,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 70,
+      "keepRatio": true,
+      "layer": "",
+      "name": "bato3",
+      "persistentUuid": "6022e309-f47c-4476-b74b-55f8d90b0dbe",
+      "width": 119,
+      "x": 2057,
+      "y": 992,
+      "zOrder": 8,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -424,6 +577,246 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "orbs",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "bd479fbd-bd88-4c5a-a13a-d279d959ad55-removebg-preview.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 185,
+                        "y": 183
+                      },
+                      {
+                        "x": 271,
+                        "y": 183
+                      },
+                      {
+                        "x": 271,
+                        "y": 335
+                      },
+                      {
+                        "x": 185,
+                        "y": 335
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "bato",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "FIRST rock - Edited.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 5
+                      },
+                      {
+                        "x": 566,
+                        "y": 5
+                      },
+                      {
+                        "x": 566,
+                        "y": 380
+                      },
+                      {
+                        "x": 5,
+                        "y": 380
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "bato2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "SECOND rock - Edited.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 12,
+                        "y": 6
+                      },
+                      {
+                        "x": 611,
+                        "y": 6
+                      },
+                      {
+                        "x": 611,
+                        "y": 460
+                      },
+                      {
+                        "x": 12,
+                        "y": 460
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "bato3",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "THIRD rock - Edited.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 7
+                      },
+                      {
+                        "x": 515,
+                        "y": 7
+                      },
+                      {
+                        "x": 515,
+                        "y": 429
+                      },
+                      {
+                        "x": 5,
+                        "y": 429
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -440,6 +833,18 @@
       },
       {
         "objectName": "afterlife_bg"
+      },
+      {
+        "objectName": "orbs"
+      },
+      {
+        "objectName": "bato"
+      },
+      {
+        "objectName": "bato2"
+      },
+      {
+        "objectName": "bato3"
       }
     ]
   },
@@ -636,12 +1041,134 @@
         "textG": 0,
         "textR": 0
       },
-      "comment": ""
+      "comment": "Collecting Orbs "
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "player",
+            "orbs",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "orbs",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Comment",
+      "color": {
+        "b": 109,
+        "g": 230,
+        "r": 255,
+        "textB": 0,
+        "textG": 0,
+        "textR": 0
+      },
+      "comment": "Start again "
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "player",
+            "bato",
+            "",
+            "",
+            "yes"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"MANUNGGUL JAR_try again\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "player",
+            "bato2",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"MANUNGGUL JAR_try again\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "player",
+            "bato3",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"MANUNGGUL JAR_try again\"",
+            ""
+          ]
+        }
+      ]
     }
   ],
   "layers": [
