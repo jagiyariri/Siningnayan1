@@ -20,7 +20,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.46331118245139874,
+    "zoomFactor": 0.23867758270257866,
     "windowMask": false,
     "selectedLayer": ""
   },
@@ -97,6 +97,23 @@
           "value": 1
         }
       ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1621,
+      "keepRatio": true,
+      "layer": "",
+      "name": "fade",
+      "persistentUuid": "bd27a077-5dcf-4a7f-a368-131eac97a23a",
+      "width": 2783,
+      "x": -431,
+      "y": -277,
+      "zOrder": 6,
+      "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     }
@@ -605,6 +622,71 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "fade",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "download (15)2.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 626,
+                        "y": 0
+                      },
+                      {
+                        "x": 626,
+                        "y": 626
+                      },
+                      {
+                        "x": 0,
+                        "y": 626
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -624,6 +706,9 @@
       },
       {
         "objectName": "Avatars"
+      },
+      {
+        "objectName": "fade"
       }
     ]
   },
@@ -666,8 +751,39 @@
           "parameters": [
             "\"Begin\""
           ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "Ticket Transition (whoosh).mp3",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+          },
+          "parameters": [
+            "fade",
+            "Tween",
+            "\"fade\"",
+            "0",
+            "\"linear\"",
+            "4",
+            ""
+          ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     },
     {
       "colorB": 228,
@@ -715,7 +831,7 @@
                     "",
                     "\"typewriter\"",
                     ">=",
-                    "0.03"
+                    "0.04"
                   ]
                 }
               ],
@@ -804,6 +920,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Names & Expressions ",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -1057,6 +1174,33 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"marami\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "(Instrumental) emotional-relaxing-piano-ambience-silent-horizon-334085 (1).mp3",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "parameters": []
@@ -1157,6 +1301,10 @@
     {
       "name": "Scale",
       "type": "ScalableCapability::ScalableBehavior"
+    },
+    {
+      "name": "Tween",
+      "type": "Tween::TweenBehavior"
     }
   ]
 }

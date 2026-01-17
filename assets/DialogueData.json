@@ -2,10 +2,10 @@
 	{
 		"title": "Begin",
 		"tags": "",
-		"body": "<<Elias>> \r\nHindi ko naman talaga gustong pumunta.\r\nMarami pa akong kailangang gawin.\r\n<<Nanay>> <<Nanay2>> \r\nGrade 12 ka na, panghuling field-trip mo na ‘to.\r\n<<Tatay>> << Tatay5>> \r\nOo nga ‘nak, malay mo may makita ka pang chicks sa museo.\r\n<<Nanay>> <<Nanay3>> \r\nHays...\r\n<<Nanay>> <<Nanay4>> \r\n‘Wag naman ngayon, mahal. Seryosohin mo.\r\n<<Elias>>  \r\nPero nay, sining lang naman kasi iyon. Mas marami pa akong importanteng kailangang gawin.\r\n<<Tatay>> << Tatay6>> \r\nMadalas ka namang sumasali sa mga field-trip, ah. Bakit ngayon hindi?\r\nDahil pa rin ba ito sa nangyari..?",
+		"body": "<<Elias>>\r\nHindi ko naman talaga gustong pumunta.\r\n<<Elias>> <<marami>> \r\nMarami pa akong kailangang gawin.\r\n<<Nanay>> <<Nanay2>> \r\nGrade 12 ka na, panghuling field-trip mo na ‘to.\r\n<<Tatay>> << Tatay5>> \r\nOo nga ‘nak, malay mo may makita ka pang chicks sa museo.\r\n<<Nanay>> <<Nanay3>> \r\nHays...\r\n<<Nanay>> <<Nanay4>> \r\n‘Wag naman ngayon, mahal. Seryosohin mo.\r\n<<Elias>>  \r\nPero nay, sining lang naman kasi iyon. Mas marami pa akong importanteng kailangang gawin.\r\n<<Tatay>> << Tatay6>> \r\nMadalas ka namang sumasali sa mga field-trip, ah. Bakit ngayon hindi?\r\nDahil pa rin ba ito sa nangyari..?",
 		"position": {
 			"x": 437,
-			"y": 252
+			"y": 251
 		},
 		"colorID": 0
 	}

@@ -928,7 +928,7 @@
         "disablePreload": false,
         "file": "assets/DialogueData.json",
         "kind": "json",
-        "metadata": "{\"extension\":\".json\"}",
+        "metadata": "{\"extension\":\".json\",\"localFilePath\":\"assets/DialogueData.json\"}",
         "name": "DialogueData",
         "userAdded": false
       },
@@ -944,6 +944,7 @@
         }
       },
       {
+<<<<<<< HEAD
         "file": "Pixelated Paintings/15.png",
         "kind": "image",
         "metadata": "",
@@ -972,10 +973,117 @@
         "kind": "audio",
         "metadata": "",
         "name": "Minigames\\Rizal\\Sa Ugoy Ng Duyan - Lucio San Pedro & Levi Celerio  Classical Guitar.mp3",
+=======
+        "file": "Ticket Transition (whoosh).mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Ticket Transition (whoosh).mp3",
+>>>>>>> 399f7cf89cf7a63a10260be7c129c33b01a159ca
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+<<<<<<< HEAD
+=======
+      },
+      {
+        "file": "download (15)2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "download (15)2.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "(Instrumental) emotional-relaxing-piano-ambience-silent-horizon-334085 (1).mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "(Instrumental) emotional-relaxing-piano-ambience-silent-horizon-334085 (1).mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "afterlife bg (plain).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "afterlife bg (plain).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Elias and a soul on a boat.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Elias and a soul on a boat.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "floorwave for manunununununugusalsd jar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floorwave for manunununununugusalsd jar.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "floorwave for manunununununugusalsd jar2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floorwave for manunununununugusalsd jar2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "floorwave for manunununununugusalsd jar3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floorwave for manunununununugusalsd jar3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "floorwave for manunununununugusalsd jar4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floorwave for manunununununugusalsd jar4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Floor_Wave for Manunununununugusalsd Jar - 1 - Edited.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Wave for Manunununununugusalsd Jar - 1 - Edited.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Prismatics Strawberry Gloss Field 150x150.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "Prismatics Strawberry Gloss Field 150x150.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Floor_Wave for Manunununununugusalsd Jar - 1 - Edited2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Wave for Manunununununugusalsd Jar - 1 - Edited2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "afterlife bg (plain)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "afterlife bg (plain)2.png",
+        "smoothed": false,
+        "userAdded": false
+>>>>>>> 399f7cf89cf7a63a10260be7c129c33b01a159ca
       }
     ]
   },
@@ -1666,11 +1774,11 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/untitled-scene"
+      "referenceTo": "/layouts/prologue-dinner-scene"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/prologue-dinner-scene"
+      "referenceTo": "/layouts/manunggul-jar"
     }
   ],
   "externalEvents": [],
@@ -1680,5 +1788,10 @@
       "referenceTo": "/eventsFunctionsExtensions/drawpathfinding"
     }
   ],
-  "externalLayouts": []
+  "externalLayouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/0_1"
+    }
+  ]
 }
