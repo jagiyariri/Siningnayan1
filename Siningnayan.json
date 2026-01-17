@@ -944,14 +944,57 @@
         }
       },
       {
-        "file": "Ticket Transition (whoosh).mp3",
+<<<<<<< HEAD
+        "file": "Pixelated Paintings/15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "download (15)2.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "(Instrumental) emotional-relaxing-piano-ambience-silent-horizon-334085 (1).mp3",
         "kind": "audio",
         "metadata": "",
-        "name": "Ticket Transition (whoosh).mp3",
+        "name": "(Instrumental) emotional-relaxing-piano-ambience-silent-horizon-334085 (1).mp3",
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "afterlife bg (plain).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "afterlife bg (plain).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Elias and a soul on a boat.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Elias and a soul on a boat.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "floorwave for manunununununugusalsd jar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Minigames\\Rizal\\Sa Ugoy Ng Duyan - Lucio San Pedro & Levi Celerio  Classical Guitar.mp3",
+=======
+        "file": "Ticket Transition (whoosh).mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Ticket Transition (whoosh).mp3",
+>>>>>>> 399f7cf89cf7a63a10260be7c129c33b01a159ca
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+<<<<<<< HEAD
+=======
       },
       {
         "file": "download (15)2.jpg",
@@ -1050,144 +1093,7 @@
         "name": "afterlife bg (plain)2.png",
         "smoothed": false,
         "userAdded": false
-      },
-      {
-        "file": "bd479fbd-bd88-4c5a-a13a-d279d959ad55-removebg-preview.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "bd479fbd-bd88-4c5a-a13a-d279d959ad55-removebg-preview.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "FIRST rock.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "FIRST rock.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "FIRST rock2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "FIRST rock2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "SECOND rock.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "SECOND rock.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "THIRD rock.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "THIRD rock.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Prismatics Strawberry Gloss Field 150x151.jpg",
-        "kind": "image",
-        "metadata": "",
-        "name": "Prismatics Strawberry Gloss Field 150x151.jpg",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Kenney Blocks.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "b6fd0cb2a1206afe3882f0187839aac780734a091c5e6c57ee25c84acdc1a499_Kenney Blocks.ttf",
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/b6fd0cb2a1206afe3882f0187839aac780734a091c5e6c57ee25c84acdc1a499_Kenney Blocks.ttf",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "file": "what the fork_skill issue (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "what the fork_skill issue (1).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Black Decorated Button_Hovered.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Black Decorated Button_Hovered.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/8a9f8afaf0442f49cd7d5318d31ac6117137ec91d9086e9bdd59b052a4fa71f0_Black Decorated Button_Hovered.png",
-          "name": "Black Decorated Button_Hovered.png"
-        }
-      },
-      {
-        "file": "assets/Black Decorated Button_Idle.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Black Decorated Button_Idle.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/6652cc81d33cb5485e0bf19ed2a92aac70b5c9fb45837762d094c8dbecc30d4d_Black Decorated Button_Idle.png",
-          "name": "Black Decorated Button_Idle.png"
-        }
-      },
-      {
-        "file": "assets/Black Decorated Button_Pressed.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Black Decorated Button_Pressed.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/61997299d1d329fff69772b1111ba7c07b6c0a96a9a17090d2bf2cc31ff08e00_Black Decorated Button_Pressed.png",
-          "name": "Black Decorated Button_Pressed.png"
-        }
-      },
-      {
-        "file": "assets/ArchitectsDaughter.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "ArchitectsDaughter.ttf",
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/ab812c7d15ad3474b6e55761235713b68f34374f3f064d1b8685ed46720df2f8_ArchitectsDaughter.ttf",
-          "name": "ArchitectsDaughter.ttf"
-        }
-      },
-      {
-        "file": "FIRST rock - Edited.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "FIRST rock - Edited.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "SECOND rock - Edited.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "SECOND rock - Edited.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "THIRD rock - Edited.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "THIRD rock - Edited.png",
-        "smoothed": false,
-        "userAdded": false
+>>>>>>> 399f7cf89cf7a63a10260be7c129c33b01a159ca
       }
     ]
   },
@@ -1878,11 +1784,11 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/manunggul-jar"
+      "referenceTo": "/layouts/prologue-dinner-scene"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/manunggul-jar_try-again"
+      "referenceTo": "/layouts/manunggul-jar"
     }
   ],
   "externalEvents": [],

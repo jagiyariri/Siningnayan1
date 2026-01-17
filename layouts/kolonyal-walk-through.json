@@ -20,7 +20,11 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
+<<<<<<< HEAD
+    "zoomFactor": 0.04365169637975532,
+=======
     "zoomFactor": 0.21446078431373705,
+>>>>>>> 399f7cf89cf7a63a10260be7c129c33b01a159ca
     "windowMask": false,
     "selectedLayer": ""
   },
