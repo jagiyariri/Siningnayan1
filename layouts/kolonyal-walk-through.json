@@ -20,7 +20,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.05883403629422094,
+    "zoomFactor": 0.04365169637975532,
     "windowMask": false,
     "selectedLayer": ""
   },
@@ -132,8 +132,8 @@
       "name": "Map_Border",
       "persistentUuid": "0b9efedd-830a-49f6-a6c7-5884e2df7dad",
       "width": 1666,
-      "x": -2022,
-      "y": -132,
+      "x": -1963,
+      "y": -120,
       "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
@@ -335,9 +335,9 @@
       "name": "Transition_Opacity",
       "persistentUuid": "745b18c0-9872-420a-a3f5-3a9d6df051f8",
       "width": 11951,
-      "x": -2497,
-      "y": -2426,
-      "zOrder": 51,
+      "x": -2423,
+      "y": -249,
+      "zOrder": 70,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -348,7 +348,7 @@
       "height": 0,
       "keepRatio": true,
       "layer": "UI Elements",
-      "name": "Prompt_Text",
+      "name": "Prompt_E_Text",
       "persistentUuid": "bbe9211d-0835-439d-9c8a-99abefe3e32c",
       "width": 0,
       "x": 1178,
@@ -377,17 +377,16 @@
     },
     {
       "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 1772,
+      "customSize": false,
+      "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "Edge_Trigger",
-      "persistentUuid": "212a124e-0ccb-4227-9639-40d171ce7854",
-      "width": 387,
-      "x": -732,
-      "y": -379,
-      "zOrder": 7,
+      "name": "GLOW",
+      "persistentUuid": "673e1ef1-48ce-45fe-b7da-aaf2f6ebba6b",
+      "width": 0,
+      "x": 6558,
+      "y": 2485,
+      "zOrder": 54,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -396,15 +395,32 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1772,
+      "height": 741,
       "keepRatio": true,
       "layer": "",
-      "name": "Edge_Trigger",
-      "persistentUuid": "91cec999-97bb-400f-9077-e9c0512193b2",
-      "width": 387,
-      "x": 7836,
-      "y": -359,
-      "zOrder": 7,
+      "name": "GLOW",
+      "persistentUuid": "527cb335-3bc1-4ef0-8654-b2d5fb03c1fd",
+      "width": 825,
+      "x": 502,
+      "y": 38,
+      "zOrder": 55,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 570,
+      "keepRatio": true,
+      "layer": "",
+      "name": "GLOW",
+      "persistentUuid": "4ef9bb21-2527-49df-a743-27ff4625e1ce",
+      "width": 597,
+      "x": 4449,
+      "y": 140,
+      "zOrder": 56,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -637,21 +653,10 @@
       "behaviors": []
     },
     {
-      "assetStoreId": "4fc78bae1d1bba045c3e8afc5b28941c3a7f3faa4faa9455d0a96b9b987b963d",
-      "height": 24,
-      "name": "Transition_Opacity",
-      "texture": "tiled_Tile 3 tiled sprite.png",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 24,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    },
-    {
       "assetStoreId": "",
       "bold": true,
       "italic": false,
-      "name": "Prompt_Text",
+      "name": "Prompt_E_Text",
       "smoothed": true,
       "type": "TextObject::Text",
       "underlined": false,
@@ -738,55 +743,72 @@
     "folderName": "__ROOT",
     "children": [
       {
-        "objectName": "ERA_TEXT"
+        "folderName": "Pantings",
+        "children": [
+          {
+            "objectName": "MT_Mayon_painting"
+          },
+          {
+            "objectName": "Parisian_life_painting"
+          },
+          {
+            "objectName": "Intendencia_painting"
+          },
+          {
+            "objectName": "Bataan_painting"
+          },
+          {
+            "objectName": "Rizal_painting"
+          },
+          {
+            "objectName": "Battle_of_mactan_painting"
+          },
+          {
+            "objectName": "Rajah_Humabon_painting"
+          }
+        ]
       },
       {
-        "objectName": "Prompt_Text"
+        "folderName": "Borders",
+        "children": [
+          {
+            "objectName": "Map_Border"
+          },
+          {
+            "objectName": "Kolonyal_Entrance_Arch"
+          },
+          {
+            "objectName": "Entrance_Fade_Left"
+          },
+          {
+            "objectName": "Entrance_Fade_Right"
+          },
+          {
+            "objectName": "Kolonyal_Exit_Arch"
+          }
+        ]
       },
       {
-        "objectName": "Kolonyal_Wall"
+        "folderName": "Background",
+        "children": [
+          {
+            "objectName": "Kolonyal_Wall"
+          },
+          {
+            "objectName": "Museum_floor"
+          }
+        ]
       },
       {
-        "objectName": "Museum_floor"
-      },
-      {
-        "objectName": "Map_Border"
-      },
-      {
-        "objectName": "Transition_Opacity"
-      },
-      {
-        "objectName": "Kolonyal_Entrance_Arch"
-      },
-      {
-        "objectName": "Entrance_Fade_Left"
-      },
-      {
-        "objectName": "MT_Mayon_painting"
-      },
-      {
-        "objectName": "Parisian_life_painting"
-      },
-      {
-        "objectName": "Intendencia_painting"
-      },
-      {
-        "objectName": "Bataan_painting"
-      },
-      {
-        "objectName": "Rizal_painting"
-      },
-      {
-        "objectName": "Battle_of_mactan_painting"
-      },
-      {
-        "objectName": "Rajah_Humabon_painting"
-      },
-      {
-        "objectName": "Entrance_Fade_Right"
-      },
-      {
-        "objectName": "Kolonyal_Exit_Arch"
+        "folderName": "Texts",
+        "children": [
+          {
+            "objectName": "Prompt_E_Text"
+          },
+          {
+            "objectName": "ERA_TEXT"
+          }
+        ]
       }
     ]
   },
@@ -1007,11 +1029,6 @@
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
@@ -1059,13 +1076,29 @@
               },
               "parameters": [
                 "Elias",
-                "Edge_Trigger",
+                "Map_Border",
                 "",
                 "",
                 ""
               ]
             }
           ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"PreKolonyal Walk Through\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
           "actions": [
             {
               "type": {
@@ -1076,16 +1109,6 @@
                 "Opacity",
                 "-",
                 "1.5"
-              ]
-            },
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"PreKolonyal Walk Through\"",
-                ""
               ]
             }
           ]
@@ -1129,7 +1152,7 @@
                 "value": "Montre"
               },
               "parameters": [
-                "Prompt_Text",
+                "Prompt_E_Text",
                 ""
               ]
             }
@@ -1158,7 +1181,7 @@
                 "value": "Cache"
               },
               "parameters": [
-                "Prompt_Text"
+                "Prompt_E_Text"
               ]
             }
           ]
@@ -1181,9 +1204,9 @@
                 "value": "MettreX"
               },
               "parameters": [
-                "Prompt_Text",
+                "Prompt_E_Text",
                 "=",
-                "SceneWindowWidth() - Prompt_Text.Width() - 10"
+                "SceneWindowWidth() - Prompt_E_Text.Width() - 10"
               ]
             },
             {
@@ -1191,7 +1214,7 @@
                 "value": "MettreY"
               },
               "parameters": [
-                "Prompt_Text",
+                "Prompt_E_Text",
                 "=",
                 "10"
               ]
@@ -1242,7 +1265,7 @@
               },
               "parameters": [
                 "",
-                "\"mt mayon\"",
+                "\"MINIGAME: Mt Mayon\"",
                 ""
               ]
             }
@@ -1354,7 +1377,18 @@
               ]
             }
           ],
-          "actions": []
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"MINIGAME: Rizal Eye-spy\"",
+                ""
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Standard",

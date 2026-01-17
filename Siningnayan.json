@@ -942,6 +942,40 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini.ttf",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "file": "Pixelated Paintings/15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixelated Paintings\\15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "download (15).jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "download (15).jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Minigames/Rizal/Painting BG.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "Minigames\\Rizal\\Painting BG.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Minigames/Rizal/Sa Ugoy Ng Duyan - Lucio San Pedro & Levi Celerio  Classical Guitar.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Minigames\\Rizal\\Sa Ugoy Ng Duyan - Lucio San Pedro & Levi Celerio  Classical Guitar.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ]
   },
@@ -1562,7 +1596,7 @@
       "bottomMargin": 0,
       "height": 32,
       "leftMargin": 0,
-      "name": "Painting_Glow",
+      "name": "GLOW",
       "rightMargin": 0,
       "texture": "GLOW.png",
       "tiled": false,
@@ -1574,12 +1608,12 @@
       "behaviors": []
     },
     {
-      "assetStoreId": "2d701679df0e067e63e657f3a7de8b0c076c1c0db19e7c6070c186b28a611df2",
-      "height": 256,
-      "name": "Edge_Trigger",
-      "texture": "tiled_black space.png",
+      "assetStoreId": "4fc78bae1d1bba045c3e8afc5b28941c3a7f3faa4faa9455d0a96b9b987b963d",
+      "height": 24,
+      "name": "Transition_Opacity",
+      "texture": "tiled_Tile 3 tiled sprite.png",
       "type": "TiledSpriteObject::TiledSprite",
-      "width": 256,
+      "width": 24,
       "variables": [],
       "effects": [],
       "behaviors": []
@@ -1592,10 +1626,10 @@
         "objectName": "Elias"
       },
       {
-        "objectName": "Painting_Glow"
+        "objectName": "GLOW"
       },
       {
-        "objectName": "Edge_Trigger"
+        "objectName": "Transition_Opacity"
       }
     ]
   },
@@ -1620,7 +1654,11 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/mt-mayon"
+      "referenceTo": "/layouts/minigame-mt-mayon"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/minigame-rizal-eye-spy"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
