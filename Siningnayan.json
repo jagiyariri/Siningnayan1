@@ -944,57 +944,14 @@
         }
       },
       {
-<<<<<<< HEAD
-        "file": "Pixelated Paintings/15.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "download (15)2.jpg",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "(Instrumental) emotional-relaxing-piano-ambience-silent-horizon-334085 (1).mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "(Instrumental) emotional-relaxing-piano-ambience-silent-horizon-334085 (1).mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "afterlife bg (plain).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "afterlife bg (plain).png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Elias and a soul on a boat.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Elias and a soul on a boat.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "floorwave for manunununununugusalsd jar.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Minigames\\Rizal\\Sa Ugoy Ng Duyan - Lucio San Pedro & Levi Celerio  Classical Guitar.mp3",
-=======
         "file": "Ticket Transition (whoosh).mp3",
         "kind": "audio",
         "metadata": "",
         "name": "Ticket Transition (whoosh).mp3",
->>>>>>> 399f7cf89cf7a63a10260be7c129c33b01a159ca
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
-<<<<<<< HEAD
-=======
       },
       {
         "file": "download (15)2.jpg",
@@ -1093,7 +1050,6 @@
         "name": "afterlife bg (plain)2.png",
         "smoothed": false,
         "userAdded": false
->>>>>>> 399f7cf89cf7a63a10260be7c129c33b01a159ca
       }
     ]
   },
