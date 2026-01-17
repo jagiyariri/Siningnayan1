@@ -20,12 +20,18 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.18781732880530497,
+    "zoomFactor": 0.2216924727500532,
     "windowMask": false,
     "selectedLayer": ""
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "name": "Current_Item",
+      "type": "number",
+      "value": 1
+    }
+  ],
   "instances": [
     {
       "angle": 0,
@@ -37,8 +43,8 @@
       "name": "Painting_BG_Rizal",
       "persistentUuid": "c383f8ad-dd0a-451c-8609-facebe9df29b",
       "width": 2132,
-      "x": 211,
-      "y": -156,
+      "x": -94,
+      "y": -90,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -65,14 +71,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 196,
+      "height": 226,
       "keepRatio": true,
       "layer": "",
       "name": "Kandila_NO_BG",
       "persistentUuid": "72fbdde9-0d0b-4843-a20d-ecfa06a9c303",
-      "width": 282,
-      "x": 239,
-      "y": 837,
+      "width": 432,
+      "x": 24,
+      "y": 815,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -88,8 +94,8 @@
       "name": "FortSantiago_NO_BG",
       "persistentUuid": "c54ee206-c7a1-4ace-a6c3-6686658b0860",
       "width": 381,
-      "x": 272,
-      "y": -89,
+      "x": -10,
+      "y": -52,
       "zOrder": 6,
       "numberProperties": [],
       "stringProperties": [],
@@ -105,8 +111,8 @@
       "name": "CryingWomen_NO_BG",
       "persistentUuid": "608176b9-0aee-4550-8038-9d2cd91e3954",
       "width": 347,
-      "x": 1982,
-      "y": 512,
+      "x": 1709,
+      "y": 539,
       "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
@@ -122,7 +128,7 @@
       "name": "Tambol_NO_BG",
       "persistentUuid": "aef112c9-39df-4c16-b782-1478abb99281",
       "width": 110,
-      "x": 1239,
+      "x": 1198,
       "y": 571,
       "zOrder": 8,
       "numberProperties": [],
@@ -139,8 +145,8 @@
       "name": "Tambol_NO_BG",
       "persistentUuid": "0aeaae8d-c290-4a94-bf15-b20e2132588b",
       "width": 110,
-      "x": 1555,
-      "y": 561,
+      "x": 1236,
+      "y": 622,
       "zOrder": 8,
       "numberProperties": [],
       "stringProperties": [],
@@ -156,8 +162,8 @@
       "name": "Tambol_NO_BG",
       "persistentUuid": "074332ee-cfda-47f5-84b2-3a23e0d1287d",
       "width": 110,
-      "x": 1719,
-      "y": 537,
+      "x": 1389,
+      "y": 594,
       "zOrder": 8,
       "numberProperties": [],
       "stringProperties": [],
@@ -173,8 +179,8 @@
       "name": "Tambol_NO_BG",
       "persistentUuid": "b5a7c54c-1b33-447a-bd8b-e3c813e1e633",
       "width": 110,
-      "x": 1091,
-      "y": 547,
+      "x": 969,
+      "y": 616,
       "zOrder": 8,
       "numberProperties": [],
       "stringProperties": [],
@@ -190,8 +196,8 @@
       "name": "Sombrero_NO_BG",
       "persistentUuid": "25573aa2-1e5b-4161-86fc-7f4c27834bb2",
       "width": 289,
-      "x": 1291,
-      "y": 65,
+      "x": 978,
+      "y": 135,
       "zOrder": 9,
       "numberProperties": [],
       "stringProperties": [],
@@ -656,6 +662,90 @@
                 "",
                 "3",
                 ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Clickable Paintings",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Kandila_NO_BG",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Current_Item",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Minigames\\Rizal\\Ding - Sound Effect (1).wav",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Kandila_NO_BG"
+              ]
+            },
+            {
+              "type": {
+                "value": "PushNumber"
+              },
+              "parameters": [
+                "Current_Item",
+                "1"
               ]
             }
           ]
