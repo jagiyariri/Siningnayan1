@@ -20,7 +20,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3088741216342833,
+    "zoomFactor": 0.12615340253749285,
     "windowMask": false,
     "selectedLayer": ""
   },
@@ -38,7 +38,16 @@
           "name": "Basket_weaver_painting"
         },
         {
-          "name": "Angono_painting"
+          "name": "Bataan_painting"
+        },
+        {
+          "name": "Rizal_painting"
+        },
+        {
+          "name": "Battle_of_mactan_painting"
+        },
+        {
+          "name": "Rajah_Humabon_painting"
         },
         {
           "name": "Durian_painting"
@@ -58,8 +67,8 @@
       "name": "Elias",
       "persistentUuid": "6818ceea-bc0c-4b03-91ae-82e454977bd8",
       "width": 851,
-      "x": -453,
-      "y": 242,
+      "x": -609,
+      "y": 231,
       "zOrder": 40,
       "numberProperties": [],
       "stringProperties": [],
@@ -74,7 +83,7 @@
       "layer": "",
       "name": "Museum_floor",
       "persistentUuid": "97d09344-3c0c-40f6-88f1-20626e66e3cd",
-      "width": 7913,
+      "width": 8719,
       "x": -834,
       "y": 873,
       "zOrder": 5,
@@ -91,7 +100,7 @@
       "layer": "",
       "name": "Kolonyal_Wall",
       "persistentUuid": "b9cde912-e835-4127-9d9f-179c7b5f9e38",
-      "width": 7806,
+      "width": 8938,
       "x": -758,
       "y": -21,
       "zOrder": 0,
@@ -109,8 +118,8 @@
       "name": "Kolonyal_Entrance_Arch",
       "persistentUuid": "981618cb-b4a1-46ce-a4d4-2813d70804a4",
       "width": 1234,
-      "x": -622,
-      "y": -41,
+      "x": -584,
+      "y": -25,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -143,8 +152,8 @@
       "name": "Entrance_Fade_Left",
       "persistentUuid": "40d87273-6d22-418c-bc88-f39929943829",
       "width": 1736,
-      "x": -888,
-      "y": -32,
+      "x": -809,
+      "y": -28,
       "zOrder": 43,
       "numberProperties": [],
       "stringProperties": [],
@@ -205,14 +214,31 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 385,
+      "height": 308,
       "keepRatio": true,
       "layer": "",
-      "name": "Angono_painting",
+      "name": "Battle_of_mactan_painting",
+      "persistentUuid": "418db32e-ddac-483e-aa66-a344d42245d8",
+      "width": 492,
+      "x": 5788,
+      "y": 261,
+      "zOrder": 30,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 534,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Rajah_Humabon_painting",
       "persistentUuid": "4716eb0c-264d-4d39-85a9-37705fd5567a",
-      "width": 647,
-      "x": 5707,
-      "y": 244,
+      "width": 791,
+      "x": 6892,
+      "y": 123,
       "zOrder": 30,
       "numberProperties": [],
       "stringProperties": [],
@@ -228,8 +254,8 @@
       "name": "Map_Border",
       "persistentUuid": "121316dd-b9a5-4545-8be0-defd5a5ce4e8",
       "width": 1643,
-      "x": 7043,
-      "y": -127,
+      "x": 7862,
+      "y": -83,
       "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
@@ -245,7 +271,7 @@
       "name": "Kolonyal_Exit_Arch",
       "persistentUuid": "43a5c3fa-c389-48ec-8490-998baa0d21d3",
       "width": 376,
-      "x": 6960,
+      "x": 7788,
       "y": -28,
       "zOrder": 50,
       "numberProperties": [],
@@ -278,8 +304,8 @@
       "name": "Entrance_Fade_Right",
       "persistentUuid": "2977f945-5e83-40cc-9ff0-c03d097f7d1d",
       "width": 1280,
-      "x": 6101,
-      "y": -24,
+      "x": 6839,
+      "y": -25,
       "zOrder": 49,
       "numberProperties": [],
       "stringProperties": [],
@@ -295,9 +321,43 @@
       "name": "Transition_Opacity",
       "persistentUuid": "745b18c0-9872-420a-a3f5-3a9d6df051f8",
       "width": 11951,
-      "x": -2382,
-      "y": -273,
-      "zOrder": 70,
+      "x": -2458,
+      "y": -2225,
+      "zOrder": 51,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 582,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Painting_Glow",
+      "persistentUuid": "b0681af2-c647-4a02-a4c6-248fbf5f32d8",
+      "width": 498,
+      "x": 1932,
+      "y": 106,
+      "zOrder": 49,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 359,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Painting_Glow",
+      "persistentUuid": "e9ce8ee5-948a-429b-9dc6-ee5a38e79456",
+      "width": 609,
+      "x": 5080,
+      "y": 160,
+      "zOrder": 49,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -347,7 +407,7 @@
       "width": 527,
       "x": 4487,
       "y": 434,
-      "zOrder": 30,
+      "zOrder": 54,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -356,15 +416,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 672,
+      "height": 1920,
       "keepRatio": true,
       "layer": "",
-      "name": "GLOW",
-      "persistentUuid": "8c2c988a-1716-4e1e-9530-ea04533853f8",
-      "width": 541,
-      "x": 1911,
-      "y": 51,
-      "zOrder": 55,
+      "name": "Edge_Trigger",
+      "persistentUuid": "068d6a7c-daf3-4602-a640-ea33e29faf18",
+      "width": 456,
+      "x": -777,
+      "y": -384,
+      "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -373,15 +433,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 739,
+      "height": 1920,
       "keepRatio": true,
       "layer": "",
-      "name": "GLOW",
-      "persistentUuid": "df564b28-d612-4d9c-9cfc-e32b5aaa56c0",
-      "width": 1237,
-      "x": 5392,
-      "y": 89,
-      "zOrder": 56,
+      "name": "Edge_Trigger",
+      "persistentUuid": "fc7dbadf-dd5d-4f00-b56c-aa7c0a667548",
+      "width": 456,
+      "x": 7866,
+      "y": -453,
+      "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -522,9 +582,57 @@
       "bottomMargin": 0,
       "height": 32,
       "leftMargin": 0,
-      "name": "Angono_painting",
+      "name": "Bataan_painting",
       "rightMargin": 0,
-      "texture": "Pixelated Paintings\\15.png",
+      "texture": "Pixelated Paintings\\8.png",
+      "tiled": false,
+      "topMargin": 0,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "bottomMargin": 0,
+      "height": 32,
+      "leftMargin": 0,
+      "name": "Rizal_painting",
+      "rightMargin": 0,
+      "texture": "Pixelated Paintings\\9.png",
+      "tiled": false,
+      "topMargin": 0,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "bottomMargin": 0,
+      "height": 32,
+      "leftMargin": 0,
+      "name": "Battle_of_mactan_painting",
+      "rightMargin": 0,
+      "texture": "Pixelated Paintings\\10.png",
+      "tiled": false,
+      "topMargin": 0,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "bottomMargin": 0,
+      "height": 32,
+      "leftMargin": 0,
+      "name": "Rajah_Humabon_painting",
+      "rightMargin": 0,
+      "texture": "Pixelated Paintings\\11.png",
       "tiled": false,
       "topMargin": 0,
       "type": "PanelSpriteObject::PanelSprite",
@@ -683,69 +791,58 @@
     "folderName": "__ROOT",
     "children": [
       {
-        "folderName": "Paintings",
-        "children": [
-          {
-            "objectName": "Hulat_Sweldo_painting"
-          },
-          {
-            "objectName": "Kamay_Pagasa_painting"
-          },
-          {
-            "objectName": "Basket_weaver_painting"
-          },
-          {
-            "objectName": "Durian_painting"
-          },
-          {
-            "objectName": "Angono_painting"
-          }
-        ]
+        "objectName": "ERA_TEXT"
       },
       {
-        "folderName": "Borders",
-        "children": [
-          {
-            "objectName": "Map_Border"
-          },
-          {
-            "objectName": "Kolonyal_Entrance_Arch"
-          },
-          {
-            "objectName": "Entrance_Fade_Left"
-          },
-          {
-            "objectName": "Entrance_Fade_Right"
-          },
-          {
-            "objectName": "Kolonyal_Exit_Arch"
-          }
-        ]
+        "objectName": "Prompt_Text"
       },
       {
-        "folderName": "Background",
-        "children": [
-          {
-            "objectName": "Kolonyal_Wall"
-          },
-          {
-            "objectName": "Museum_floor"
-          },
-          {
-            "objectName": "Transition_Opacity"
-          }
-        ]
+        "objectName": "Kolonyal_Wall"
       },
       {
-        "folderName": "Texts",
-        "children": [
-          {
-            "objectName": "Prompt_Text"
-          },
-          {
-            "objectName": "ERA_TEXT"
-          }
-        ]
+        "objectName": "Museum_floor"
+      },
+      {
+        "objectName": "Kolonyal_Entrance_Arch"
+      },
+      {
+        "objectName": "Map_Border"
+      },
+      {
+        "objectName": "Transition_Opacity"
+      },
+      {
+        "objectName": "Entrance_Fade_Left"
+      },
+      {
+        "objectName": "Hulat_Sweldo_painting"
+      },
+      {
+        "objectName": "Kamay_Pagasa_painting"
+      },
+      {
+        "objectName": "Durian_painting"
+      },
+      {
+        "objectName": "Basket_weaver_painting"
+      },
+      {
+        "objectName": "Bataan_painting"
+      },
+      {
+        "objectName": "Rizal_painting"
+      },
+      {
+        "objectName": "Battle_of_mactan_painting"
+      },
+      {
+        "objectName": "Rajah_Humabon_painting"
+      },
+      {
+        "objectName": "Entrance_Fade_Right"
+      },
+      {
+        "objectName": "Kolonyal_Exit_Arch"
       }
     ]
   },
@@ -987,7 +1084,7 @@
               },
               "parameters": [
                 "",
-                "\"Ending sample scene\"",
+                "\"Modern Walk Through\"",
                 ""
               ]
             },
@@ -1027,7 +1124,7 @@
               },
               "parameters": [
                 "",
-                "\"PreKolonyal Walk Through\"",
+                "\"Kolonyal Walk Through\"",
                 ""
               ]
             }
@@ -1052,7 +1149,16 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
           "actions": []
         }
       ],
@@ -1202,7 +1308,7 @@
               },
               "parameters": [
                 "",
-                "\"MINIGAME: Mt Mayon\"",
+                "\"mt mayon\"",
                 ""
               ]
             }
@@ -1352,7 +1458,7 @@
               },
               "parameters": [
                 "Elias",
-                "Angono_painting",
+                "Rajah_Humabon_painting",
                 "",
                 "",
                 ""

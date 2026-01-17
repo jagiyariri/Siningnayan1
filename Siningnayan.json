@@ -928,7 +928,7 @@
         "disablePreload": false,
         "file": "assets/DialogueData.json",
         "kind": "json",
-        "metadata": "{\"extension\":\".json\"}",
+        "metadata": "{\"extension\":\".json\",\"localFilePath\":\"assets/DialogueData.json\"}",
         "name": "DialogueData",
         "userAdded": false
       },
@@ -944,65 +944,111 @@
         }
       },
       {
-        "file": "Pixelated Paintings/15.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixelated Paintings\\15.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "download (15).jpg",
-        "kind": "image",
-        "metadata": "",
-        "name": "download (15).jpg",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Minigames/Rizal/Painting BG.jpg",
-        "kind": "image",
-        "metadata": "",
-        "name": "Minigames\\Rizal\\Painting BG.jpg",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Minigames/Rizal/Sa Ugoy Ng Duyan - Lucio San Pedro & Levi Celerio  Classical Guitar.mp3",
+        "file": "Ticket Transition (whoosh).mp3",
         "kind": "audio",
         "metadata": "",
-        "name": "Minigames\\Rizal\\Sa Ugoy Ng Duyan - Lucio San Pedro & Levi Celerio  Classical Guitar.mp3",
+        "name": "Ticket Transition (whoosh).mp3",
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
       },
       {
-        "file": "Minigames/Rizal/no bg.png",
+        "file": "download (15)2.jpg",
         "kind": "image",
         "metadata": "",
-        "name": "Minigames\\Rizal\\no bg.png",
+        "name": "download (15)2.jpg",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "Minigames/Rizal/Ding - Sound Effect.mp3",
+        "file": "(Instrumental) emotional-relaxing-piano-ambience-silent-horizon-334085 (1).mp3",
         "kind": "audio",
         "metadata": "",
-        "name": "Minigames\\Rizal\\Ding - Sound Effect.mp3",
+        "name": "(Instrumental) emotional-relaxing-piano-ambience-silent-horizon-334085 (1).mp3",
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
       },
       {
-        "file": "Minigames/Rizal/Ding - Sound Effect (1).wav",
-        "kind": "audio",
+        "file": "afterlife bg (plain).png",
+        "kind": "image",
         "metadata": "",
-        "name": "Minigames\\Rizal\\Ding - Sound Effect (1).wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
+        "name": "afterlife bg (plain).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Elias and a soul on a boat.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Elias and a soul on a boat.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "floorwave for manunununununugusalsd jar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floorwave for manunununununugusalsd jar.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "floorwave for manunununununugusalsd jar2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floorwave for manunununununugusalsd jar2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "floorwave for manunununununugusalsd jar3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floorwave for manunununununugusalsd jar3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "floorwave for manunununununugusalsd jar4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floorwave for manunununununugusalsd jar4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Floor_Wave for Manunununununugusalsd Jar - 1 - Edited.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Wave for Manunununununugusalsd Jar - 1 - Edited.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Prismatics Strawberry Gloss Field 150x150.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "Prismatics Strawberry Gloss Field 150x150.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Floor_Wave for Manunununununugusalsd Jar - 1 - Edited2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_Wave for Manunununununugusalsd Jar - 1 - Edited2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "afterlife bg (plain)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "afterlife bg (plain)2.png",
+        "smoothed": false,
         "userAdded": false
       }
     ]
@@ -1624,7 +1670,7 @@
       "bottomMargin": 0,
       "height": 32,
       "leftMargin": 0,
-      "name": "GLOW",
+      "name": "Painting_Glow",
       "rightMargin": 0,
       "texture": "GLOW.png",
       "tiled": false,
@@ -1636,12 +1682,12 @@
       "behaviors": []
     },
     {
-      "assetStoreId": "4fc78bae1d1bba045c3e8afc5b28941c3a7f3faa4faa9455d0a96b9b987b963d",
-      "height": 24,
-      "name": "Transition_Opacity",
-      "texture": "tiled_Tile 3 tiled sprite.png",
+      "assetStoreId": "2d701679df0e067e63e657f3a7de8b0c076c1c0db19e7c6070c186b28a611df2",
+      "height": 256,
+      "name": "Edge_Trigger",
+      "texture": "tiled_black space.png",
       "type": "TiledSpriteObject::TiledSprite",
-      "width": 24,
+      "width": 256,
       "variables": [],
       "effects": [],
       "behaviors": []
@@ -1654,10 +1700,10 @@
         "objectName": "Elias"
       },
       {
-        "objectName": "GLOW"
+        "objectName": "Painting_Glow"
       },
       {
-        "objectName": "Transition_Opacity"
+        "objectName": "Edge_Trigger"
       }
     ]
   },
@@ -1682,11 +1728,7 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/minigame-mt-mayon"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/minigame-rizal-eye-spy"
+      "referenceTo": "/layouts/mt-mayon"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
@@ -1694,11 +1736,11 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/untitled-scene"
+      "referenceTo": "/layouts/prologue-dinner-scene"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/prologue-dinner-scene"
+      "referenceTo": "/layouts/manunggul-jar"
     }
   ],
   "externalEvents": [],
@@ -1708,5 +1750,10 @@
       "referenceTo": "/eventsFunctionsExtensions/drawpathfinding"
     }
   ],
-  "externalLayouts": []
+  "externalLayouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/0_1"
+    }
+  ]
 }

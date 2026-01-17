@@ -1,8 +1,8 @@
 {
   "b": 209,
   "disableInputWhenNotFocused": true,
-  "mangledName": "MINIGAME_58_32Mt_32Mayon",
-  "name": "MINIGAME: Mt Mayon",
+  "mangledName": "mt_32mayon",
+  "name": "mt mayon",
   "r": 209,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,

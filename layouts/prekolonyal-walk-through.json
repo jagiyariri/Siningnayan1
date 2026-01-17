@@ -20,7 +20,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.10001786170017696,
+    "zoomFactor": 0.02932003164919859,
     "windowMask": false,
     "selectedLayer": ""
   },
@@ -321,9 +321,9 @@
       "name": "Transition_Opacity",
       "persistentUuid": "745b18c0-9872-420a-a3f5-3a9d6df051f8",
       "width": 14542,
-      "x": -2159,
-      "y": -265,
-      "zOrder": 70,
+      "x": -2305,
+      "y": -2663,
+      "zOrder": 51,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -416,15 +416,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 503,
+      "height": 725,
       "keepRatio": true,
       "layer": "",
-      "name": "GLOW",
-      "persistentUuid": "386540c5-b414-4fc3-858b-2ed7ad24efc6",
-      "width": 399,
-      "x": 728,
-      "y": 264,
-      "zOrder": 54,
+      "name": "Painting_Glow",
+      "persistentUuid": "c143c7b7-9a9e-425a-b8cb-b2d58714d28d",
+      "width": 597,
+      "x": 637,
+      "y": 173,
+      "zOrder": 57,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -433,15 +433,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 414,
+      "height": 725,
       "keepRatio": true,
       "layer": "",
-      "name": "GLOW",
-      "persistentUuid": "a8754391-3af4-467f-ab82-9445e3da7d4d",
-      "width": 427,
-      "x": 3252,
-      "y": 296,
-      "zOrder": 55,
+      "name": "Painting_Glow",
+      "persistentUuid": "575ede90-c449-4357-87cb-9b6456752ba9",
+      "width": 597,
+      "x": 3157,
+      "y": 182,
+      "zOrder": 57,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -450,15 +450,49 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 788,
+      "height": 725,
       "keepRatio": true,
       "layer": "",
-      "name": "GLOW",
-      "persistentUuid": "764c3dc9-bc48-41f3-be49-ceaad309eea1",
-      "width": 714,
-      "x": 5688,
-      "y": 29,
-      "zOrder": 56,
+      "name": "Painting_Glow",
+      "persistentUuid": "474dd150-1b67-4ced-8e09-df73f5a5c08e",
+      "width": 597,
+      "x": 5753,
+      "y": 84,
+      "zOrder": 57,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1920,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Edge_Trigger",
+      "persistentUuid": "ca8b5156-54a2-4243-b213-5531aa7592d1",
+      "width": 456,
+      "x": -788,
+      "y": -336,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1920,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Edge_Trigger",
+      "persistentUuid": "4d296502-e3a3-4720-9ceb-cf64fe0cec42",
+      "width": 456,
+      "x": 10352,
+      "y": -445,
+      "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -772,6 +806,53 @@
       }
     },
     {
+      "additive": false,
+      "assetStoreId": "ff4b37534ea4921dcece4d25f928b8ef537614193c93a84e5e1524c1cf7bce9d",
+      "destroyWhenNoParticles": false,
+      "emitterAngleA": 0,
+      "emitterAngleB": 0,
+      "emitterForceMax": -400,
+      "emitterForceMin": -200,
+      "flow": 50,
+      "jumpForwardInTimeOnCreation": 0,
+      "maxParticleNb": 200,
+      "name": "PixelTrail",
+      "particleAlpha1": 255,
+      "particleAlpha2": 0,
+      "particleAlphaRandomness1": 0,
+      "particleAlphaRandomness2": 0,
+      "particleAngle1": 0,
+      "particleAngle2": 0,
+      "particleAngleRandomness1": 0,
+      "particleAngleRandomness2": 0,
+      "particleBlue1": 104,
+      "particleBlue2": 106,
+      "particleColor1": "255;176;104",
+      "particleColor2": "122;116;106",
+      "particleGravityX": 0,
+      "particleGravityY": 0,
+      "particleGreen1": 176,
+      "particleGreen2": 116,
+      "particleLifeTimeMax": 0.800000011920929,
+      "particleLifeTimeMin": 0.800000011920929,
+      "particleRed1": 255,
+      "particleRed2": 122,
+      "particleSize1": 15,
+      "particleSize2": 100,
+      "particleSizeRandomness1": 0,
+      "particleSizeRandomness2": 0,
+      "rendererParam1": 1,
+      "rendererParam2": 1,
+      "rendererType": "Quad",
+      "tank": -1,
+      "textureParticleName": "PixelTrail.png",
+      "type": "ParticleSystem::ParticleEmitter",
+      "zoneRadius": 10,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
       "assetStoreId": "",
       "bottomMargin": 0,
       "height": 32,
@@ -808,78 +889,61 @@
     "folderName": "__ROOT",
     "children": [
       {
-        "folderName": "Paintings",
-        "children": [
-          {
-            "objectName": "Manunggul_Jar"
-          },
-          {
-            "objectName": "Magpupukot_painting"
-          },
-          {
-            "objectName": "Bulul"
-          },
-          {
-            "objectName": "Visayan_Noblewomen"
-          },
-          {
-            "objectName": "Boxer_codex_painting"
-          },
-          {
-            "objectName": "Sarimanok_painting"
-          },
-          {
-            "objectName": "Tnalak"
-          },
-          {
-            "objectName": "Panolong"
-          }
-        ]
+        "objectName": "ERA_TEXT"
       },
       {
-        "folderName": "Borders",
-        "children": [
-          {
-            "objectName": "Map_Border"
-          },
-          {
-            "objectName": "Kolonyal_Entrance_Arch"
-          },
-          {
-            "objectName": "Entrance_Fade_Left"
-          },
-          {
-            "objectName": "Entrance_Fade_Right"
-          },
-          {
-            "objectName": "Kolonyal_Exit_Arch"
-          }
-        ]
+        "objectName": "PixelTrail"
       },
       {
-        "folderName": "Background",
-        "children": [
-          {
-            "objectName": "Transition_Opacity"
-          },
-          {
-            "objectName": "Museum_floor"
-          },
-          {
-            "objectName": "Kolonyal_Wall"
-          }
-        ]
+        "objectName": "Prompt_Text"
       },
       {
-        "folderName": "Texts",
-        "children": [
-          {
-            "objectName": "Prompt_Text"
-          },
-          {
-            "objectName": "ERA_TEXT"
-          }
-        ]
+        "objectName": "Kolonyal_Wall"
+      },
+      {
+        "objectName": "Museum_floor"
+      },
+      {
+        "objectName": "Kolonyal_Entrance_Arch"
+      },
+      {
+        "objectName": "Map_Border"
+      },
+      {
+        "objectName": "Transition_Opacity"
+      },
+      {
+        "objectName": "Entrance_Fade_Left"
+      },
+      {
+        "objectName": "Manunggul_Jar"
+      },
+      {
+        "objectName": "Magpupukot_painting"
+      },
+      {
+        "objectName": "Bulul"
+      },
+      {
+        "objectName": "Visayan_Noblewomen"
+      },
+      {
+        "objectName": "Boxer_codex_painting"
+      },
+      {
+        "objectName": "Sarimanok_painting"
+      },
+      {
+        "objectName": "Tnalak"
+      },
+      {
+        "objectName": "Panolong"
+      },
+      {
+        "objectName": "Entrance_Fade_Right"
+      },
+      {
+        "objectName": "Kolonyal_Exit_Arch"
       }
     ]
   },
@@ -1147,7 +1211,7 @@
               },
               "parameters": [
                 "Elias",
-                "Map_Border",
+                "Edge_Trigger",
                 "",
                 "",
                 ""
@@ -1155,6 +1219,17 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "Transition_Opacity",
+                "Opacity",
+                "-",
+                "1.5"
+              ]
+            },
             {
               "type": {
                 "value": "Scene"
@@ -1170,19 +1245,7 @@
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "Transition_Opacity",
-                "Opacity",
-                "-",
-                "1.5"
-              ]
-            }
-          ]
+          "actions": []
         }
       ],
       "parameters": []
@@ -1331,7 +1394,7 @@
               },
               "parameters": [
                 "",
-                "\"MINIGAME: Mt Mayon\"",
+                "\"mt mayon\"",
                 ""
               ]
             }
